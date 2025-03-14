@@ -1,4 +1,4 @@
-/**
+/*
  * @fileoverview Template to compose HTTP reqeuest.
  * 
  */
