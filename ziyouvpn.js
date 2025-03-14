@@ -1,9 +1,3 @@
-
-/**
- * @fileoverview Template to compose HTTP reqeuest.
- * 
- */
-
 const url = `https://eileidfd.api.s-cat.cn/api/load_user_info`;
 const method = `GET`;
 const headers = {
